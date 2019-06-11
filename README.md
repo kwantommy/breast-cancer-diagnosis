@@ -6,10 +6,11 @@
 
 
 ## Linear decision boundary
-![linear](https://github.com/kwantommy/breast-cancer-diagnosis/blob/master/images/linear.png =50%x) 
+![linear](https://github.com/kwantommy/breast-cancer-diagnosis/blob/master/images/linear.png) 
 
 ## Radial basis function decision boundary
 ![rbf](https://github.com/kwantommy/breast-cancer-diagnosis/blob/master/images/rbf.png)
 
 ## Accuracy achieved with SVM
 ![svm_accuracy](https://github.com/kwantommy/breast-cancer-diagnosis/blob/master/images/svm_accuracy.png)
+ 
