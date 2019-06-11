@@ -4,12 +4,11 @@
 
 ## Support Vector Machine 
 
-
-## Linear decision boundary
+### Linear decision boundary
  <img src=https://github.com/kwantommy/breast-cancer-diagnosis/blob/master/images/linear.png width=500/>
  
-## Radial basis function decision boundary
+### Radial basis function decision boundary
  <img src=https://github.com/kwantommy/breast-cancer-diagnosis/blob/master/images/rbf.png width=500/>
  
-## Accuracy achieved with SVM
+### Accuracy achieved with SVM
  <img src=https://github.com/kwantommy/breast-cancer-diagnosis/blob/master/images/svm_accuracy.png width=500/> 
