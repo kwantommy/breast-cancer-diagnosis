@@ -3,7 +3,15 @@
 - data used is from UCI Machine Learning Repository 
 
 For most models, k-fold cross validation was performed with grid search to find optimal model parameters. 
-         
+- read about k-fold cross validation at https://towardsdatascience.com/cross-validation-explained-evaluating-estimator-performance-e51e5430ff85 and https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
+- read about grid search at https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html and https://towardsdatascience.com/using-3d-visualizations-to-tune-hyperparameters-of-ml-models-with-python-ba2885eab2e9
+ <p float="left">
+ <img src=https://cdn-images-1.medium.com/max/1600/1*rgba1BIOUys7wQcXcL4U5A.png width=400 float="left"/>
+ <img src=https://cdn-images-1.medium.com/max/1600/1*9CwvAqj99xcPDgQkCdm47w.png width=400 float="left"/>
+ </p>
+        
+
+
 ## XGBoost
 XGBoost, or extreme gradient boosting, is a top machine learning model and the dominating algorithm among competitions.
 - supports many tunings parameters such as learning rate and early stopping 
